@@ -1,1 +1,2 @@
 There are two methods to launch git in windows. One is launching git using a bash scripting shell with the help of the command line and another is launching git using a graphical user interface.
+my name is muqadas amjad
